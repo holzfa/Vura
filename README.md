@@ -118,14 +118,15 @@ Class instances are reference counted. The compiler inserts the counting at pred
 
 Vura is built together with its reference compiler **Bloom**, written in Kotlin.
 
-|          Component           |       State      |
-| ---------------------------- | ---------------- |
-| Lexer                        | Work in progress |
-| Parser                       | Work in progress |
-| Type checker                 | Planned          |
-| Language server              | Planned          |
-| Code generation (LLVM)       | Planned          |
-| Runtime (reference counting) | Planned          |
+|          Component            |       State      |
+| ----------------------------- | ---------------- |
+| Lexer                         | Work in progress |
+| Parser                        | Work in progress |
+| Type checker                  | Planned          |
+| Language server               | Planned          |
+| Editor Plugins(Jebrains, Zed) | Planned          |
+| Code generation (LLVM)        | Planned          |
+| Runtime (reference counting)  | Planned          |
 
 ## Repository layout
 
