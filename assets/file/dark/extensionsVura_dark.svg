@@ -1,0 +1,17 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="extensionsVura_dark">
+<g id="Enum">
+<path id="Background" d="M15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15V10C8 8.89543 8.89543 8 10 8H15Z" fill="#402929"/>
+<path id="Circle" d="M8 14C4.68629 14 2 11.3137 2 8C2 4.68629 4.68629 2 8 2C11.3137 2 14 4.68629 14 8H15C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15V14Z" fill="#DB5C5C"/>
+<g id="F Mask">
+<mask id="mask0_11_312" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="4" width="6" height="8">
+<path id="F" d="M8 11.5H5.49023V4.5H10.4102V5.415H6.48023V7.515H10.0702L10 8L9 8.25L8.75 8.435H6.48023V10.585H8V11.5Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_11_312)">
+<path id="Vector" d="M15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15V10C8 8.89543 8.89543 8 10 8H15Z" fill="#DB5C5C"/>
+</g>
+</g>
+</g>
+<path id="Vura" d="M11.5 9.5H10H10C9.5 9.5 9.5 9.5 9.5 10L13 15.5H15H15C15.5 15.5 15.5 15.5 15.5 15V10C15.5 9.5 15.5 9.5 15 9.5L13.5 9.5V11V12.5L11.5 9.5Z" fill="#F27A00" fill-opacity="0.2" stroke-linejoin="round" stroke="#D14A08"/>
+</g>
+</svg>
